@@ -21,7 +21,7 @@ Any modern web-browser.
 
 👤 **Ayush Jha*
 
-- GitHub: [@githubhandle](https://github.com/Jhaman1895)
+- GitHub: [@Jhaman1895](https://github.com/Jhaman1895)
 
 
 
