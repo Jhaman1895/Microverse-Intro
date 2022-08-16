@@ -19,7 +19,7 @@ Any modern web-browser.
 
 ## Authors
 
-👤 **Author1**
+👤 **Ayush Jha*
 
 - GitHub: [@githubhandle](https://github.com/Jhaman1895)
 
